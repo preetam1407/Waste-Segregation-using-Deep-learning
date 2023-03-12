@@ -15,9 +15,6 @@ This project uses deep learning and image processing techniques to automate wast
 - Enhancing the image processing module to handle different types of waste and environmental conditions.
 - Optimizing the hardware control module to improve the speed and efficiency of waste sorting.
 
->**Team Members**:
-- This project was developed by Preetam Chhimpa in collaboration with Ary Pratap Singh.
-
 
 
 
